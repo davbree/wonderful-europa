@@ -13,7 +13,7 @@
             "thumbnail": "images/placeholder.png",
             "data": {
                 "variant": "variant-a",
-                "title": "Another Title...",
+                "title": "Another Title?!",
                 "text": "Hello",
                 "actions": [{
                     "label": "Stackbit",
